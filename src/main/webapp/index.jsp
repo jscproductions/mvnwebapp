@@ -2,7 +2,8 @@
 <body>
 <style>
   body{
-	background-color: blue;
+	background-color: lightblue;
+	color : white;
 }
 </style>
 <h2>Hello World!</h2>
