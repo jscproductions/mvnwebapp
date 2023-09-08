@@ -3,7 +3,7 @@
 <style>
   body{
 	background-color: lightblue;
-	color : white;
+	color : navyblue;
 }
 </style>
 <h2>Hello World!</h2>
